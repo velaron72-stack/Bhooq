@@ -11,7 +11,7 @@ local player = Players.LocalPlayer
 -- ========== КОНФИГ ==========
 local SPEED_PER_JUMP   = 8
 local MAX_SPEED        = 500
-local STOP_TIMEOUT     = 0.3
+local STOP_TIMEOUT     = 0.1
 local BASE_WALKSPEED   = 16
 local AIR_CONTROL_MIX  = 0.35
 
