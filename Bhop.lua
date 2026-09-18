@@ -13,7 +13,7 @@ local SPEED_PER_JUMP   = 8
 local MAX_SPEED        = 500
 local BASE_WALKSPEED   = 16
 local AIR_CONTROL_MIX  = 0.35
-local JUMP_TIMEOUT     = 0.15   -- если на земле и не прыгаешь дольше этого -> сброс
+local JUMP_TIMEOUT     = 0.200   -- если на земле и не прыгаешь дольше этого -> сброс
 
 -- ========== СОСТОЯНИЕ ==========
 local bhopEnabled  = false
